@@ -1,0 +1,2 @@
+# mcalc
+A simple calculator
